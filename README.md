@@ -1,2 +1,35 @@
 # school.circular-matrix
-A school project to fill a matrice cicularly
+
+## OBJECTIVE
+
+the objective of the program is fill a matrix circularly
+
+## EXECUTION
+
+### FIRST ENTRY
+
+```
+    >>> Veillez entrer l'ordre de la matrice: 
+    >>> 5
+```
+
+### OUTPUT
+
+``` 
+    _______ _______ _______ _______ _______
+
+    | 1 |   | 2 |   | 3 |   | 4 |   | 5 |
+    _______ _______ _______ _______ _______
+
+    | 16 |  | 17 |  | 18 |  | 19 |  | 6 |
+    _______ _______ _______ _______ _______
+
+    | 15 |  | 24 |  | 25 |  | 20 |  | 7 |
+    _______ _______ _______ _______ _______
+
+    | 14 |  | 23 |  | 22 |  | 21 |  | 8 |
+    _______ _______ _______ _______ _______
+
+    | 13 |  | 12 |  | 11 |  | 10 |  | 9 |
+    _______ _______ _______ _______ _______
+```
